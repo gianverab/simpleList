@@ -1,0 +1,1 @@
+A simple action list made in JavaScript.
